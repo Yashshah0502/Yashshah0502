@@ -25,19 +25,18 @@
 
 ---
 
-## 🚀 Projects
+🚀 Projects
+Stock Market Prediction (LSTM)
+📈 Developed a deep learning model using LSTM to forecast stock prices, leveraging historical data from Yahoo Finance. Improved prediction accuracy and gained hands-on experience with time-series analysis.
 
-🔹 **[Stock Market Prediction (LSTM)](https://github.com/YashShah123/stock-market-lstm)**  
-📈 Time-series forecasting using LSTM on historical stock data with Yahoo Finance API.
+YouTube Data ETL on AWS
+☁️ Engineered a robust ETL pipeline using AWS Glue, S3, and Athena to process and analyze YouTube data. Automated data flows and delivered interactive dashboards with Amazon QuickSight.
 
-🔹 **[YouTube Data ETL on AWS](https://github.com/YashShah123/youtube-etl-pipeline)**  
-🗃️ Built a scalable ETL pipeline using AWS Glue, S3, Athena & visualized on QuickSight.
+Admissions Dashboard @ ASU
+📊 Built real-time Power BI dashboards for ASU admissions, automating SQL-based ETL processes and tracking key performance indicators to support data-driven decision-making.
 
-🔹 **[Admissions Dashboard @ ASU](https://github.com/YashShah123/asu-admissions-dashboard)**  
-📊 Created real-time Power BI dashboards, automated SQL-based ETL, and tracked KPIs.
-
-🔹 **[Rasa Chatbot Migration](https://github.com/YashShah123/rasa-chatbot-project)**  
-💬 Migrated legacy chatbot to Rasa OSS with Django backend, reaching 93% NLU accuracy.
+Rasa Chatbot Migration
+🤖 Modernized a legacy chatbot by migrating to Rasa Open Source with a Django backend, achieving 93% NLU accuracy and enhancing user engagement.
 
 ---
 
