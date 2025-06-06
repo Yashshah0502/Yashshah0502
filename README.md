@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Yash Shah
 
-🎓 Master's in Information Technology @ Arizona State University | GPA: 3.9  
+🎓 Master's in Information Technology @ Arizona State University | GPA: 4.0  
 💡 Data Analyst • Software Developer • Automation Enthusiast  
 🛠️ I enjoy building scalable tools, cleaning messy data, and automating the boring stuff.  
 🌱 Currently exploring roles in **Data Analytics**, **BI**, or **Software Engineering**—let’s connect!
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 🔹 **[Stock Market Prediction (LSTM)](https://github.com/YashShah123/stock-market-lstm)**  
 📈 Time-series forecasting using LSTM on historical stock data with Yahoo Finance API.
@@ -41,16 +41,9 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashShah123&show_icons=true)
-
----
-
 ## 📬 Let's Connect!
 
-- 📧 **Emails**: yashshah@email.com | yushah2002@gmail.com  
-- 🔗 **LinkedIn**: [linkedin.com/in/yashshah123](https://linkedin.com/in/yashshah123)  
-- 🌐 **Portfolio**: *Add here if you have one*
+- 📧 **Emails**: yshah43@asu.edu | yushah2002@gmail.com  
+- 🔗 **LinkedIn**: [linkedin.com/in/yash0502](www.linkedin.com/in/yash0502)  
 
 Thanks for stopping by! 🙌
