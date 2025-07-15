@@ -1,13 +1,23 @@
-## 👋 Hey there, I'm Yash Shah
+# 👋 Hey there, I'm Yash Shah
 
 🎓 Master's in Information Technology @ Arizona State University | GPA: 4.0  
 💡 Data Analyst • Software Developer • Automation Enthusiast  
 🛠️ I enjoy building scalable tools, cleaning messy data, and automating the boring stuff.  
-🌱 Currently exploring roles in **Data Analytics**, **BI**, or **Software Engineering**—let’s connect!
+🌱 Actively exploring roles in Data Analytics, BI, Data Engineering, and AI Engineering—let’s connect!
 
 ---
 
 ## 🧠 Tech Stack & Tools
+
+
+## AI Engineering Tech Stack
+
+- **LLMs & NLP:** LangChain, Hugging Face Transformers, OpenAI API, Rasa  
+- **Vector DBs & Embeddings:** FAISS, Chroma, Sentence-Transformers  
+- **Model Serving & RAG:** HuggingFace Inference Endpoints, RetrievalQA, PromptTemplate  
+- **Frameworks:** FastAPI, Streamlit, Gradio  
+- **DevOps & Infra:** Docker, GitHub Actions, AWS, GCP  
+- **Agents & Tooling:** LangGraph, Tavily Search, Memory modules, Custom Tools
 
 ### 📊 Data & Analytics
 - **Languages**: Python, SQL, R
@@ -25,24 +35,31 @@
 
 ---
 
-🚀 Projects
-🔹 Stock Market Prediction (LSTM)
-📈 Developed a deep learning model using LSTM to forecast stock prices with historical data from Yahoo Finance. Focused on time-series analysis and improving prediction accuracy.
 
-🔹 YouTube Data ETL on AWS
-☁️ Built a scalable ETL pipeline using AWS Glue, S3, and Athena to automate ingestion and transformation of YouTube data. Delivered visual insights via Amazon QuickSight dashboards.
+## 🚀 Projects
 
-🔹 Admissions Dashboard @ ASU
-📊 Designed real-time dashboards with Power BI, automating SQL-based ETL processes to track student metrics and KPIs for ASU admissions.
+### 🧠 [AI_Med_Chatbot](https://github.com/Yashshah0502/AI_Med_Chatbot)
+Conversational medical assistant built using LangChain, Mistral-7B, FAISS vector search, and Streamlit.  
+• Enables context-aware Q&A over medical PDFs using Retrieval-Augmented Generation (RAG).  
+• Deployed using HuggingFace Inference Endpoints and custom prompt templates.
 
-🔹 Rasa Chatbot Migration
-🤖 Migrated a legacy chatbot to Rasa OSS with a Django backend, achieving 93% NLU accuracy. Enhanced modularity, scalability, and user engagement.
+### 📚 [BookRecommender](https://github.com/Yashshah0502/BookRecommender)
+Hybrid recommender system using sentiment analysis and semantic similarity.  
+• Zero-shot classification to split fiction/non-fiction with 78% accuracy.  
+• Vector-based recommendation using cosine similarity across 5,200+ book descriptions.
+
+### 🤖 [LangGraph-AI-Agent](https://github.com/Yashshah0502/LangGraph-AI-Agent--End-to-End-Web-Connected-Chatbot-with-FastAPI-and-Streamlit)
+Autonomous AI agent with FastAPI backend and LangGraph-based reasoning loop.  
+• Integrates LLaMA-3.3 70B and Tavily web search for real-time information retrieval.  
+• supports web-based interaction via Streamlit.
 
 ---
+
 
 ## 📬 Let's Connect!
 
 - 📧 **Emails**: yshah43@asu.edu | yushah2002@gmail.com  
 - 🔗 **LinkedIn**: [linkedin.com/in/yash0502](www.linkedin.com/in/yash0502)  
 
+💬 *"I build systems that make data useful, interfaces intelligent, and automation effortless."*
 Thanks for stopping by! 🙌
